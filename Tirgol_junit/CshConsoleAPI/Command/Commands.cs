@@ -1,0 +1,57 @@
+﻿
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+
+
+namespace CshConsoleAPI
+{
+	public delegate bool CommandCb(string[] parameters);
+
+
+	public class Commands
+	{
+		public const string CMD_PROMPED = "\n>";
+
+		public const string CMD_ECHO = "echo";
+
+		public const string PARAMS_START = "(";
+		public const string PARAMS_SEP = ",";
+		public const string PARAMS_END = ")";
+
+
+
+		Dictionary<string, CommandCb> commands_dic = new Dictionary<string, CommandCb>();
+
+		public bool Add(string name, CommandCb command)
+		{
+			bool result = true;
+			try
+			{
+				commands_dic.Add(name, command);
+			}
+			catch (Exception e)
+			{
+				result = false;
+			}
+			return result;
+		}
+
+		public CommandCb Find(string name)
+		{
+			CommandCb command = commands_dic[name];
+			return command;
+		}
+
+		public bool Exec(string name, string[] parameters)
+		{
+			CommandCb command = Find(name);
+			return (command(parameters));
+		}
+	}
+}
