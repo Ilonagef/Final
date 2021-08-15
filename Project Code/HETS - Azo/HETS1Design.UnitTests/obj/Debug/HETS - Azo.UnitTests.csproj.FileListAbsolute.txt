@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.pdb
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\HETS1Design.exe
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\HETS1Design.pdb
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\HETS1Design.exe.config
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\obj\Debug\HETS1Design.UnitTests.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3\Designs\HETS1\HETS1Design.UnitTests\obj\Debug\HETS1Design.UnitTests.pdb
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.pdb
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.exe
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.pdb
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.exe.config
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS1Design.UnitTests.dll
+C:\Users\User\Desktop\Studies\אימות ובדיקות תכנה\Project\Stage 3 - HETS - AZO\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS1Design.UnitTests.pdb
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.pdb
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.exe
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\System.IO.Compression.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.pdb
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.exe.config
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.AssemblyReference.cache
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.CoreCompileInputs.cache
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS - Azo.UnitTests.csproj.CopyComplete
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS1Design.UnitTests.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\obj\Debug\HETS1Design.UnitTests.pdb
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\HETS1Design.UnitTests\bin\Debug\HETS1Design.UnitTests.dll.config

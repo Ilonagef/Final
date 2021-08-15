@@ -1,0 +1,476 @@
+Compiler version: 64Bit
+
+ID: גורי (נמרוד) שוורצמן_7091_assignsubmission_file_
+Code path: D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\Assets\Test Required FIles\Debugging Required Files\Codes To Check\גורי (נמרוד) שוורצמן_7091_assignsubmission_file_\NewAscii.c
+Exe path: D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\Assets\Test Required FIles\Debugging Required Files\Codes To Check\גורי (נמרוד) שוורצמן_7091_assignsubmission_file_\Exe\Source.exe
+Code submitted: True
+Exe submitted: True
+Compiler output: NewAscii.c:10: warning: implicit declaration of function 'scanf_s'
+
+Compiled Exe path: D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\Assets\Test Required FIles\Debugging Required Files\Codes To Check\גורי (נמרוד) שוורצמן_7091_assignsubmission_file_\NewAscii.exe
+
+
+
+***********Submitted .exe results:
+****Input:
+
+1 9
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 8
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+2 9
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 7
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 9
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 6
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 1
+9
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+The chars must be seperated by a comma!
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 2
+9
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+The chars must be seperated by a comma!
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 3
+9
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+The chars must be seperated by a comma!
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 0 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 1 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 2 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 3 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 4 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 5 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 6 3
+10
+
+****Suppoesd output:
+
+1
+
+****Actual output:
+
+enter 2 chars seperated by space:
+your char diff is: 1
+
+
+**Wrong Output!
+
+
+
+
+
+***********Compiled .exe results:
+****Input:
+
+1 9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 8
+
+**Wrong Output!
+
+
+
+****Input:
+
+2 9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 7
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 6
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 1
+9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 17
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 2
+9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 18
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 3
+9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 19
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 0 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 1 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 2 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 3 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 4 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 5 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 6 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please Enter Two Chars with only one space between them:Your Char Diffrence is: 1
+
+**Wrong Output!
+
+
+
+
+Overall success rate of: 38.461538461538461538461538460% with POSSIBLE CHEATING!
+
