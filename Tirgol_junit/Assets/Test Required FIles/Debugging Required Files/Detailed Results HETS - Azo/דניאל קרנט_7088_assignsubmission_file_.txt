@@ -1,0 +1,245 @@
+Compiler version: 64Bit
+
+ID: דניאל קרנט_7088_assignsubmission_file_
+Code path: D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\Assets\Test Required FIles\Debugging Required Files\Codes To Check\דניאל קרנט_7088_assignsubmission_file_\Source.c
+Exe path: 
+Code submitted: True
+Exe submitted: True
+Compiler output: Source.c:15: warning: implicit declaration of function 'scanf_s'
+
+Compiled Exe path: D:\שנה ג\סמסטר ב\אימות ובדיקת תוכנה\project2_1\Project Code\HETS - Azo\Assets\Test Required FIles\Debugging Required Files\Codes To Check\דניאל קרנט_7088_assignsubmission_file_\Source.exe
+
+No results.
+
+***********Compiled .exe results:
+****Input:
+
+1 9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 17
+
+**Wrong Output!
+
+
+
+****Input:
+
+2 9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 18
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 1
+9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 17
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 2
+9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 18
+
+**Wrong Output!
+
+
+
+****Input:
+
+ 3
+9
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 0 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Wrong Output!
+
+
+
+****Input:
+
+3 4
+1 1 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 2 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 3 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 4 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 5 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Correct Output (is TNC)
+
+****Input:
+
+3 4
+1 6 3
+10
+
+****Supposed output:
+
+1
+
+****Actual output:
+
+Please enter two characters
+The absolute value of characters is: 19
+
+**Wrong Output!
+
+
+
+
+Overall success rate of: 38.461538461538461538461538460%
+

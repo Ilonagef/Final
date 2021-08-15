@@ -1,0 +1,1 @@
+Since the program doesn't search for paths and uses relative paths from bin folder, moving or renaming anything could make it stop working

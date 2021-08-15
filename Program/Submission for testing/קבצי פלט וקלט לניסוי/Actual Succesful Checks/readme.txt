@@ -1,0 +1,1 @@
+Notice how the submission I chose for correct output for this test has \n in the output
